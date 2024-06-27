@@ -1,0 +1,21 @@
+﻿  ofApp.cpp
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\prj2\src\ofApp.cpp(180,44): warning C4267: '/=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\prj2\src\ofApp.cpp(181,44): warning C4267: '/=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/FORCE' 사양으로 인해 무시됩니다.
+  prj2.vcxproj -> C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\prj2\bin\prj2_debug.exe
+  
+  	                   2	C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *추가 파일  		 6942208	C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\prj2\bin\FreeImage.dll
+  
+  	                   1	C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *추가 파일  		 1826304	C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\prj2\bin\fmod.dll
+  	  *추가 파일  		 2041856	C:\Users\JYJang\Desktop\univ\7\CS1\6\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\prj2\bin\fmodL.dll
